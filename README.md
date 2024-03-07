@@ -21,3 +21,7 @@ react-native와 expo를 사용하여 다크모드와 라이트모드를 바꿀 �
 
 ## 💻예시 화면💻
 
+![처음](https://github.com/kingyjjy/calcultor/assets/141803642/39629b2a-ba25-4e8b-bfec-50d6ec7fd5d6)
+![darkmode](https://github.com/kingyjjy/calcultor/assets/141803642/6afbc9b4-1508-412a-b4e9-165804e85ba8)
+![계산](https://github.com/kingyjjy/calcultor/assets/141803642/18c05af4-5682-4264-a15b-ff98d9981d1e)
+![result](https://github.com/kingyjjy/calcultor/assets/141803642/3762e903-e609-4f46-b6aa-55786e1fc7dd)
